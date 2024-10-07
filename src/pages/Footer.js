@@ -10,17 +10,17 @@ const Footer =() => {
             <h3>A.SH CODERS <span>IT GROUP</span></h3>
 
             <p class="footer-links">
-                <a href="#" class="link-1">Home</a>
+                <a href="javascript:void(0);" class="link-1">Home</a>
                 
-                <a href="#">Blog</a>
+                <a href="javascript:void(0);">Blog</a>
             
-                <a href="#">Pricing</a>
+                <a href="javascript:void(0);">Pricing</a>
             
-                <a href="#">About</a>
+                <a href="javascript:void(0);">About</a>
                 
-                <a href="#">Faq</a>
+                <a href="javascript:void(0);">Faq</a>
                 
-                <a href="#">Contact</a>
+                <a href="javascript:void(0);">Contact</a>
             </p>
 
             <p class="footer-company-name">© 2015 All rights reserved.</p>
@@ -54,8 +54,8 @@ const Footer =() => {
 
             <div class="footer-icons">
 
-                <a href="#"><FaFacebookF /></a>
-                <a href="#"><FaInstagram /></a>
+                <a href="javascript:void(0);"><FaFacebookF /></a>
+                <a href="javascript:void(0);"><FaInstagram /></a>
                 <a href="https://t.me/ash_coders"><FaTelegramPlane /></a>
                 <a href="https://github.com/AxrorbekCoder"><FaGithub /></a>
 
